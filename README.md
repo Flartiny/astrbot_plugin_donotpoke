@@ -1,4 +1,4 @@
-# helloworld
+# doNotPoke
 
 AstrBot 插件模板
 
